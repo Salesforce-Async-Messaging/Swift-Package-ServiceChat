@@ -25,12 +25,12 @@ let package = Package(
         .binaryTarget(
             name: "ServiceCore",
             url: "https://s3.amazonaws.com/salesforcesos.com/ios/servicesdk/246.0.0/ServiceCore.xcframework.zip",
-            checksum: "330a02654bd7b5e7995d4b821a57aa785ea7854e1ffa812f90c5d1bbf392c780"
+            checksum: "03fdfe4219c6f058c1d9322e447c63e635f6b62ab9d5bc1e6f3b2b1ddf91be72"
         ),
         .binaryTarget(
             name: "ServiceChat",
             url: "https://s3.amazonaws.com/salesforcesos.com/ios/servicesdk/246.0.0/ServiceChat.xcframework.zip",
-            checksum: "982f473adde43c14565d119a73486576646d316666a90a951b80e47c7c41b757"
+            checksum: "9cf151680285a8ec6b31f86dcb6155bae0cf47706549abc0d2dade7b5ff87d89"
         )
     ]
 )
